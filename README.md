@@ -14,8 +14,8 @@ I have used these packages :
 
 - Save in LocalStorage.
 
-[Soon]()
+[click here to visit]() Soon !
 
 ## Screenshots
 
-![Screenshot GIF](./Preview/Preview-Markdown.png)
+![Screenshot](./Preview/Preview-Markdown.png)
