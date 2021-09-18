@@ -18,4 +18,4 @@ I have used these packages :
 
 ## Screenshots
 
-![Screenshot](./Preview/Preview-Markdown.png)
+![Preview-Markdown](https://user-images.githubusercontent.com/76627218/133896119-1781898c-7355-42e8-aafd-2bf1ea1fc925.png)
